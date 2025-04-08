@@ -2,7 +2,7 @@
 
 ---
 
-Great! Since your goal is **Fake News Detection using NLP**, the dataset you have is a classic labeled dataset (`Text`, `Label`) with binary classification (`Fake` vs. `Real`). Here's a complete **workflow** for your project, step by step:
+Since your goal is **Fake News Detection using NLP**, the dataset you have is a classic labeled dataset (`Text`, `Label`) with binary classification (`Fake` vs. `Real`). Here's a complete **workflow** for your project, step by step:
 
 ---
 
@@ -142,4 +142,9 @@ Use GridSearchCV or RandomizedSearchCV to tune model parameters.
 
 ---
 
-Would you like the complete implementation in Python for this project? I can prepare it step by step too!
+### **12. Take One Real-World Exmple of Real/ Fake News detection **
+
+- user input ....
+- predict Real/Fake news 
+
+ 
